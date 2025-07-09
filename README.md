@@ -24,8 +24,8 @@ Our primary goals:
 
 ```
 .
-├── Dashboardv1.ipynb               # Main dashboard and visualizations
-├── DataCleaningV2.ipynb            # Data cleaning and CPI adjustment
+├── streamlit_app.py                # Main dashboard and visualizations
+├── DataCleaningV3.ipynb            # Data cleaning and CPI adjustment
 ├── clean_new.csv                   # Cleaned movie data
 ├── cpi.csv                         # CPI data used for inflation adjustment
 ├── data.zip/
