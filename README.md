@@ -38,7 +38,7 @@ Our primary goals:
 
 ## 🧹 Data Cleaning and Preprocessing
 
-Found in: `DataCleaningV2.ipynb`
+Found in: `DataCleaningV3.ipynb`
 
 1. **Merging Raw Datasets**:  
    `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` were merged on `movie_id`.
@@ -118,7 +118,7 @@ All visualizations are built using **Plotly** and implemented in `Dashboardv1.ip
 git clone https://github.com/your-username/dataflix.git
 cd dataflix
 pip install -r requirements.txt
-streamlit run Dashboardv1.ipynb
+streamlit run streamlit_app.py
 ```
 
 ---
